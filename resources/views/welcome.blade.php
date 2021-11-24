@@ -343,7 +343,7 @@
                     <!-- collection 1 -->
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/snatcher-bg_7.jpg" alt="image" />
+                            <img loading="lazy" src="images/baby1.jpeg" alt="image" />
                         </div>
                         <div class="collection_text">
                             <!-- style.css:1379 -->
@@ -356,7 +356,7 @@
                     <!-- collection 2 -->
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/snatcher-bg_6.jpg" alt="image" />
+                            <img loading="lazy" src="images/baby2.jpeg" alt="image" />
                         </div>
                         <div class="collection_text">
                             <span>
@@ -368,7 +368,7 @@
                     <!-- collection 3 -->
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/snatcher-bg_5.jpg" alt="image" />
+                            <img loading="lazy" src="images/baby3.jpeg" alt="image" />
                         </div>
                         <div class="collection_text">
                             <span>
@@ -380,7 +380,7 @@
                     <!-- collection 4 -->
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/snatcher-bg_4.jpg" alt="image" />
+                            <img loading="lazy" src="images/baby4.jpeg"alt="image" />
                         </div>
                         <div class="collection_text">
                             <span>
@@ -392,7 +392,7 @@
                     <!-- collection 5 -->
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/snatcher-bg_3.jpg" alt="image" />
+                            <img loading="lazy" src="images/baby5.jpeg" alt="image" />
                         </div>
                         <div class="collection_text">
                             <span>
@@ -430,7 +430,7 @@
                 <div class="col-4 offset-2 col-sm-12 offset-sm-0 col-md-6 offset-md-0 col-lg offset-lg-0 mb-4">
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/team/2.jpg" alt="image" />
+                            <img loading="lazy" src="images/team/baby1.jpeg" alt="image" />
                         </div>
                     </div>
                     <div class="about_text p-0 mt-0 text-center">
@@ -441,7 +441,7 @@
                 <div class="col-4 col-sm-12 col-md-6 col-lg mb-4">
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/team/1.jpg" alt="image" />
+                            <img loading="lazy" src="images/team/baby2.jpeg" alt="image" />
                         </div>
                     </div>
                     <div class="about_text p-0 mt-0 text-center">
@@ -452,7 +452,7 @@
                 <div class="col-4 col-sm-12 col-md-6 col-lg mb-4">
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/team/3.jpg" alt="image" />
+                            <img loading="lazy" src="images/team/baby3.jpeg" alt="image" />
                         </div>
                     </div>
                     <div class="about_text p-0 mt-0 text-center">
@@ -463,7 +463,7 @@
                 <div class="col-4 col-sm-12 col-md-6 col-lg mb-4">
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/team/4.jpg" alt="image" />
+                            <img loading="lazy" src="images/team/baby4.jpeg" alt="image" />
                         </div>
                     </div>
                     <div class="about_text p-0 mt-0 text-center">
@@ -474,7 +474,7 @@
                 <div class="col-4 col-sm-12 col-md-6 col-lg mb-4">
                     <div class="collection-item">
                         <div class="collection_img">
-                            <img loading="lazy" src="images/team/5.jpg" alt="image" />
+                            <img loading="lazy" src="images/team/baby5.jpeg" alt="image" />
                         </div>
                     </div>
                     <div class="about_text p-0 mt-0 text-center">
@@ -497,8 +497,7 @@
             </div>
             <div class="row">
                 <div class="col-12">
-                    <script src="https://apps.elfsight.com/p/platform.js" defer></script>
-                    <div class="elfsight-app-dc8478ce-b21e-4c2d-9643-4e900b434bb7"></div>
+                    
                 </div>
             </div>
         </div>
@@ -539,14 +538,14 @@
                         <h5>Useful Links</h5>
                         <ul>
                             <li>
-                                <a href="#">Home</a>
+                                <a href="/welcome">Home</a>
                             </li>
                             <li>
-                                <a href="/Rarities%20-%20Rarities%20SolSnatchers%202021.pdf">Attributes Table
+                                <a href="">Attributes Table
               </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/messages/compose?recipient_id=1433597569859457024">Support</a>
+                                <a href="">Support</a>
                             </li>
                         </ul>
                     </div>
@@ -555,7 +554,7 @@
 
                 <!-- Start: Useful Link -->
                 <div class="col-lg-6 col-md-12 col-sm-12">
-                    <iframe src="https://discord.com/widget?id=884775472825761863&&theme=dark" style="width: 100%" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+                    <!-- <iframe src="https://discord.com/widget?id=884775472825761863&&theme=dark" style="width: 100%" height="300" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> -->
                 </div>
                 <!-- End: Social Link-->
             </div>
@@ -574,7 +573,7 @@
     <!-- Scripts
 ========================================-->
     <!-- jquery -->
-    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.min.js"></sc>
     <script type="text/javascript" src="js/jquery.syotimer.min.js"></script>
     <!-- plugins -->
     <script src="js/plugins.js"></script>
