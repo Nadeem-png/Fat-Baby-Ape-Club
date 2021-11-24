@@ -69,7 +69,7 @@
                     <li><a onclick="check()" href="#discover">Showcase</a></li>
                 </ul>
                 <div class="logo">
-                    <a href="index.html"><img src="images/logo.png" alt="" /></a>
+                    <a href="index.html"><img src="images/logo1.jpeg" alt="" style="height:70px;"></a>
                 </div>
                 <ul class="links links2">
                     <li><a onclick="check()" href="#twitter">News</a></li>
@@ -515,7 +515,7 @@
                 <!-- Start: logo -->
                 <div class="col-lg-3 col-md-6 col-sm-12">
                     <div class="footer_logo">
-                        <img src="images/logo.png" alt="" />
+                        <img src="images/logo1.jpeg"  style="height:180px;" alt="" />
                         <p>
                             Fat Baby Ape Club collection of 10,000 uniquely generated Grim Reapers existing eternally in the underworld of the Solana Blockchain.
                         </p>
