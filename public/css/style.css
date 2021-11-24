@@ -1036,7 +1036,7 @@ nav .menu_content .links {
     background: url("../images/banner1.jpeg");
     padding-bottom: 8px;
     padding-top: 85px;
-    height: 600px;
+    height: 700px;
     display: flex;
     align-items: center;
     position: relative;
@@ -4970,9 +4970,7 @@ Featured Assets
     transform: scale(1.1);
 }
 
-.roadmap-list {
-    /* background-color: blue; */
-}
+
 
 .roadmap-item {
     /* color: black; */

@@ -119,7 +119,7 @@
             <div class="row">
                 <div class="col-md-5 col-sm-12">
                     <div class="about_img">
-                        <img loading="lazy" src="images/slideshow.gif" alt="image" class="layer" />
+                        <img loading="lazy" src="images/5vegos.gif" alt="image" class="layer" />
                     </div>
                     <!-- /.about_img-->
                 </div>
